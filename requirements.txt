@@ -1,0 +1,4 @@
+flask 
+gunicom
+
+pip freeze > requirements.txt
